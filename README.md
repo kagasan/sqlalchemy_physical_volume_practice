@@ -1,0 +1,2 @@
+# sqlalchemy_physical_volume_practice
+sqlalchemyde論理容量と物理容量を体感する
